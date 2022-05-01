@@ -2,17 +2,12 @@
 ``` bash
 # login window
 ```
-<br>
-<img src="./display_1.png">
-<br>
+![](display_1.png)
 ``` bash
 # register window
 ```
-<br>
-<img src="./display_2.png">
-<br>
+![](display_2.png)
 ``` bash
 # payment window
 ```
-<br>
-<img src="./display_3.png">
+![](display_3.png)
